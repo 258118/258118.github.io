@@ -33,6 +33,9 @@ plt.grid(True)
 
 plt.show()
 
-<a href="https://你的用户名-你的Space名.hf.space" target="_blank">Click to view the effect of my Python script</a>
+<a href="https://ctjorz-123.hf.space" target="_blank">Click to view the effect of my Python script</a>
 
-## Python script with AI assistance
+## My Experience with AI-Assisted Coding
+
+Using AI to write my Python script was surprisingly easy at first—it generated correct code from just a few sentences. But when errors appeared, I had to understand the problem to communicate it back effectively. This showed me that AI is a great tool for speeding up coding, but basic programming knowledge is still essential to guide it and verify its output. I'll definitely use AI assistance in future projects, but I'll also keep learning the fundamentals.
+
