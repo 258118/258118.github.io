@@ -4,13 +4,22 @@
     <title>python script</title>
 </head>
 <body>
-    <h1>我的项目</h1>
-    <p>这里是我的项目列表：</p>
-    <ul>
-        <li>项目1：用Python做的数据分析工具</li>
-        <li>项目2：AI聊天机器人</li>
-        <li>项目3：个人网站（就是这里！）</li>
-    </ul>
+    <h1>my script</h1>
+    <p>import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.linspace(0, 10, 100)
+y1 = np.sin(x)
+y2 = np.cos(x)
+
+plt.plot(x, y1, 'r-', label='sin')
+plt.plot(x, y2, 'b--', label='cos')
+plt.legend()
+plt.xlabel('时间 (s)')
+plt.ylabel('幅度')
+plt.title('正弦波与余弦波')
+plt.grid(True)
+plt.show()</p>
     <a href="index.html">home</a>
 </body>
 </html>
