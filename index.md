@@ -1,15 +1,24 @@
-# 欢迎来到我的个人网站
+# Welcome To My Website
+ CDT501 
 
-这是我的第一个个人网站，是 CDT501 课程的作业。
+## My name
 
-## 关于我
+Li Qianyi
 
-我是Li Qianyi
+## Python script with AI assistance
 
-## 我的兴趣
+import numpy as np
+import matplotlib.pyplot as plt
 
-- 人工智能
-- 机器学习
-- 编程
+x = np.linspace(0, 10, 100)
+y1 = np.sin(x)
+y2 = np.cos(x)
 
-这个网站是用 GitHub Pages 和 Jekyll 主题创建的。
+plt.plot(x, y1, 'r-', label='sin(x)')
+plt.plot(x, y2, 'b--', label='cos(x)')
+plt.xlabel("时间 (s)")
+plt.ylabel("幅度")
+plt.title("正弦波与余弦波")
+plt.legend()
+plt.grid(True)
+plt.show()
