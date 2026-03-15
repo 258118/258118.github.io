@@ -1,3 +1,9 @@
+<head>
+    <script type="module" src="https://gradio.s3-us-west-2.amazonaws.com/4.36.1/gradio.js"></script>
+</head>
+
+<gradio-app space="ctjorz/234" initial_height="500px"></gradio-app>
+
 # Welcome To My Website
  CDT501 
 
