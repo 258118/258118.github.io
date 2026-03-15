@@ -4,9 +4,6 @@
 
 <gradio-app space="ctjorz/234" initial_height="500px"></gradio-app>
 
-# Welcome To My Website
- CDT501 
-
 ## My name
 
 Li Qianyi
